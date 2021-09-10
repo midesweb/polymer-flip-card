@@ -32,11 +32,11 @@
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "chai": "^4.2.0",
     "eslint": "^5.16.0",
-    "mocha": "^5.2.0",
+    "mocha": "^9.1.1",
     "rollup": "^1.17.0",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-node-resolve": "^4.2.4",
-    "rollup-plugin-terser": "^4.0.4",
+    "rollup-plugin-terser": "^7.0.2",
     "wct-mocha": "^1.0.1"
   }
 }

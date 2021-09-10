@@ -41,7 +41,7 @@ class FlipCard extends LitElement {
           border-top: 4px solid var(--accent, rgb(255, 212, 45));
           border-radius: 10px 10px 10px 10px;
           box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
-          transition: transform 0.5s ease-in-out;
+          transition: transform 1.5s ease-in-out;
 					overflow: hidden;
 
 					padding-bottom: 32px;
@@ -95,7 +95,7 @@ class FlipCard extends LitElement {
         }
 
         .animateJump .card {
-          animation: jump 0.4s linear 0s 1;
+          animation: jump 1.4s linear 0s 1;
         }
 
         @keyframes jump {
